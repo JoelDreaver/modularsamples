@@ -1,102 +1,91 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on PaperCSS</title>
-    <link>https://example.com/</link>
-    <description>Recent content in Blog on PaperCSS</description>
+    <title>Modular Samples</title>
+    <link>https://modularsamples.com/</link>
+    <description>Recent content on Modular Samples</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Creating a New Theme</title>
-      <link>https://example.com/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://example.com/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 22 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://modularsamples.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Casio HT-700 Waveform Library</title>
-      <link>https://example.com/product/waveformlibrary/</link>
+      <link>https://modularsamples.com/samples/product/waveformlibrary/</link>
       <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/product/waveformlibrary/</guid>
+      <guid>https://modularsamples.com/samples/product/waveformlibrary/</guid>
       <description>Exhaustive HT-700 construction Kit</description>
     </item>
     
     <item>
       <title>The Collection</title>
-      <link>https://example.com/product/the-collection/</link>
+      <link>https://modularsamples.com/samples/product/the-collection/</link>
       <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/product/the-collection/</guid>
+      <guid>https://modularsamples.com/samples/product/the-collection/</guid>
       <description>The Casio HT-700 Waveform Library, Excessive Hits, Untitled Loop Project Yamaha PS-2 Library and more</description>
     </item>
     
     <item>
       <title>Excessive Hits</title>
-      <link>https://example.com/product/excessive-hits/</link>
+      <link>https://modularsamples.com/samples/product/excessive-hits/</link>
       <pubDate>Fri, 26 Mar 2021 14:13:21 +0000</pubDate>
       
-      <guid>https://example.com/product/excessive-hits/</guid>
+      <guid>https://modularsamples.com/samples/product/excessive-hits/</guid>
       <description>Loading.</description>
     </item>
     
     <item>
       <title>Tragic Automata: An Arturia Microfreak Patch collection</title>
-      <link>https://example.com/product/tragic-automata/</link>
+      <link>https://modularsamples.com/samples/product/tragic-automata/</link>
       <pubDate>Fri, 26 Mar 2021 14:13:21 +0000</pubDate>
       
-      <guid>https://example.com/product/tragic-automata/</guid>
+      <guid>https://modularsamples.com/samples/product/tragic-automata/</guid>
       <description>Loading.</description>
     </item>
     
     <item>
       <title>Untitled Loop Project</title>
-      <link>https://example.com/product/untitled-loop-project/</link>
+      <link>https://modularsamples.com/samples/product/untitled-loop-project/</link>
       <pubDate>Fri, 26 Mar 2021 14:13:21 +0000</pubDate>
       
-      <guid>https://example.com/product/untitled-loop-project/</guid>
+      <guid>https://modularsamples.com/samples/product/untitled-loop-project/</guid>
       <description> Loading... </description>
     </item>
     
     <item>
       <title>USB Drives</title>
-      <link>https://example.com/product/drive/</link>
+      <link>https://modularsamples.com/samples/product/drive/</link>
       <pubDate>Fri, 26 Mar 2021 14:13:21 +0000</pubDate>
       
-      <guid>https://example.com/product/drive/</guid>
+      <guid>https://modularsamples.com/samples/product/drive/</guid>
       <description>Loading.</description>
     </item>
     
     <item>
       <title>Yamaha PS-2</title>
-      <link>https://example.com/product/yamaha-ps2/</link>
+      <link>https://modularsamples.com/samples/product/yamaha-ps2/</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/product/yamaha-ps2/</guid>
+      <guid>https://modularsamples.com/samples/product/yamaha-ps2/</guid>
       <description>A complete sampling of this early home keyboard.</description>
     </item>
     
     <item>
+      <title>Arturia Microfreak Samples</title>
+      <link>https://modularsamples.com/post/microfreak/</link>
+      <pubDate>Thu, 11 Mar 2021 00:08:46 +0100</pubDate>
+      
+      <guid>https://modularsamples.com/post/microfreak/</guid>
+      <description>Here&amp;rsquo;s a repository for some of the curious sounds I&amp;rsquo;m getting out of the Microfreak. Enjoy :)
+MF</description>
+    </item>
+    
+    <item>
       <title>Akai AX-80</title>
-      <link>https://example.com/pd/akai-ax80/</link>
+      <link>https://modularsamples.com/samples/pd/akai-ax80/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/akai-ax80/</guid>
+      <guid>https://modularsamples.com/samples/pd/akai-ax80/</guid>
       <description>The Akai AX-80 is an aggressive sounding CEM based polysynth from the early 80s.
  Formats: EXS24, Kontakt &amp;amp; SFZ Info: Wikipedia  Download Audio - Download Patches
 Demo  </description>
@@ -104,453 +93,428 @@ Demo  </description>
     
     <item>
       <title>Akai s612 ❤️ Modular</title>
-      <link>https://example.com/pd/akai-s612-modular/</link>
+      <link>https://modularsamples.com/samples/pd/akai-s612-modular/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/akai-s612-modular/</guid>
+      <guid>https://modularsamples.com/samples/pd/akai-s612-modular/</guid>
       <description>Gritty Vintage Sampler meets Modern Modular.</description>
     </item>
     
     <item>
       <title>Alchemy Sounds pt1 Homunculi</title>
-      <link>https://example.com/pd/alchemy-sounds-pt1-homunculi/</link>
+      <link>https://modularsamples.com/samples/pd/alchemy-sounds-pt1-homunculi/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/alchemy-sounds-pt1-homunculi/</guid>
+      <guid>https://modularsamples.com/samples/pd/alchemy-sounds-pt1-homunculi/</guid>
       <description>A collection of Sounds for Alchemy</description>
     </item>
     
     <item>
       <title>Arturia Microbrute</title>
-      <link>https://example.com/pd/arturia-microbrute/</link>
+      <link>https://modularsamples.com/samples/pd/arturia-microbrute/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/arturia-microbrute/</guid>
+      <guid>https://modularsamples.com/samples/pd/arturia-microbrute/</guid>
       <description>Tiny Semi-Modular</description>
     </item>
     
     <item>
       <title>Arturia Microfreak</title>
-      <link>https://example.com/pd/microfreak/</link>
+      <link>https://modularsamples.com/samples/pd/microfreak/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/microfreak/</guid>
+      <guid>https://modularsamples.com/samples/pd/microfreak/</guid>
       <description>Touchable Digital/Analogue hybrid</description>
     </item>
     
     <item>
       <title>Behringer Crave</title>
-      <link>https://example.com/pd/behringer-crave/</link>
+      <link>https://modularsamples.com/samples/pd/behringer-crave/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/behringer-crave/</guid>
+      <guid>https://modularsamples.com/samples/pd/behringer-crave/</guid>
       <description>Moog Mother 32 Clone. EXS24, Kontakt. 960mb.</description>
     </item>
     
     <item>
       <title>Casio HT-700</title>
-      <link>https://example.com/pd/casio-ht-700/</link>
+      <link>https://modularsamples.com/samples/pd/casio-ht-700/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/casio-ht-700/</guid>
+      <guid>https://modularsamples.com/samples/pd/casio-ht-700/</guid>
       <description>Editable home keyboard</description>
     </item>
     
     <item>
       <title>Chroma Polaris</title>
-      <link>https://example.com/pd/fender-chroma-polaris/</link>
+      <link>https://modularsamples.com/samples/pd/fender-chroma-polaris/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/fender-chroma-polaris/</guid>
+      <guid>https://modularsamples.com/samples/pd/fender-chroma-polaris/</guid>
       <description>Weird 80s Polysynth</description>
     </item>
     
     <item>
       <title>Dave Smith Instruments Tetra</title>
-      <link>https://example.com/pd/dsi-tetra/</link>
+      <link>https://modularsamples.com/samples/pd/dsi-tetra/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/dsi-tetra/</guid>
+      <guid>https://modularsamples.com/samples/pd/dsi-tetra/</guid>
       <description>Compact 4 Voice poly</description>
     </item>
     
     <item>
       <title>Elektron Analog Four</title>
-      <link>https://example.com/pd/elektron-analog-4/</link>
+      <link>https://modularsamples.com/samples/pd/elektron-analog-4/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/elektron-analog-4/</guid>
+      <guid>https://modularsamples.com/samples/pd/elektron-analog-4/</guid>
       <description>Groovy Groovebox</description>
     </item>
     
     <item>
       <title>Elektronika-EM-25</title>
-      <link>https://example.com/pd/elektronika-em-25/</link>
+      <link>https://modularsamples.com/samples/pd/elektronika-em-25/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/elektronika-em-25/</guid>
+      <guid>https://modularsamples.com/samples/pd/elektronika-em-25/</guid>
       <description>Classic String Synth Soviet style</description>
     </item>
     
     <item>
       <title>Elektronika-EM-25 Kontakt 6 Instrument</title>
-      <link>https://example.com/pd/elektronika-em-25-k6/</link>
+      <link>https://modularsamples.com/samples/pd/elektronika-em-25-k6/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/elektronika-em-25-k6/</guid>
+      <guid>https://modularsamples.com/samples/pd/elektronika-em-25-k6/</guid>
       <description>Classic String Synth Soviet style</description>
     </item>
     
     <item>
       <title>Ensoniq ESQ1</title>
-      <link>https://example.com/pd/ensoniq-esq1/</link>
+      <link>https://modularsamples.com/samples/pd/ensoniq-esq1/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/ensoniq-esq1/</guid>
+      <guid>https://modularsamples.com/samples/pd/ensoniq-esq1/</guid>
       <description>80s Analogue/Digital Hybrid</description>
     </item>
     
     <item>
       <title>Former Loops</title>
-      <link>https://example.com/pd/former-loops-/</link>
+      <link>https://modularsamples.com/samples/pd/former-loops-/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/former-loops-/</guid>
+      <guid>https://modularsamples.com/samples/pd/former-loops-/</guid>
       <description>Toned up loops for Kontakt 5+. 2.4gb.</description>
     </item>
     
     <item>
       <title>Jen SX-2000</title>
-      <link>https://example.com/pd/jen-sx-2000/</link>
+      <link>https://modularsamples.com/samples/pd/jen-sx-2000/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/jen-sx-2000/</guid>
+      <guid>https://modularsamples.com/samples/pd/jen-sx-2000/</guid>
       <description>Piano and Trumpet sounds! 190mb.</description>
     </item>
     
     <item>
       <title>Kawai K3</title>
-      <link>https://example.com/pd/kawai-k3/</link>
+      <link>https://modularsamples.com/samples/pd/kawai-k3/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/kawai-k3/</guid>
+      <guid>https://modularsamples.com/samples/pd/kawai-k3/</guid>
       <description>Flabby Analogue/Digital hybrid sounds for EXS24 &amp;amp; Kontakt</description>
     </item>
     
     <item>
       <title>Kontakt Morphing Instruments</title>
-      <link>https://example.com/pd/morph-instruments/</link>
+      <link>https://modularsamples.com/samples/pd/morph-instruments/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/morph-instruments/</guid>
+      <guid>https://modularsamples.com/samples/pd/morph-instruments/</guid>
       <description>Two instruments for Kontakt 5+</description>
     </item>
     
     <item>
       <title>Korg DW-8000</title>
-      <link>https://example.com/pd/korg-dw-8000/</link>
+      <link>https://modularsamples.com/samples/pd/korg-dw-8000/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/korg-dw-8000/</guid>
+      <guid>https://modularsamples.com/samples/pd/korg-dw-8000/</guid>
       <description>Analogue/Digital hybrid</description>
     </item>
     
     <item>
       <title>Korg Minilogue</title>
-      <link>https://example.com/pd/korg-minilogue/</link>
+      <link>https://modularsamples.com/samples/pd/korg-minilogue/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/korg-minilogue/</guid>
+      <guid>https://modularsamples.com/samples/pd/korg-minilogue/</guid>
       <description>Door bell sounds and more.</description>
     </item>
     
     <item>
       <title>Korg Mono/Poly</title>
-      <link>https://example.com/pd/korg-monopoly/</link>
+      <link>https://modularsamples.com/samples/pd/korg-monopoly/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/korg-monopoly/</guid>
+      <guid>https://modularsamples.com/samples/pd/korg-monopoly/</guid>
       <description>4 Osc/4 voice paraphonic synth</description>
     </item>
     
     <item>
       <title>Korg MS-20 Mini</title>
-      <link>https://example.com/pd/korg-ms-20-mini/</link>
+      <link>https://modularsamples.com/samples/pd/korg-ms-20-mini/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/korg-ms-20-mini/</guid>
+      <guid>https://modularsamples.com/samples/pd/korg-ms-20-mini/</guid>
       <description>Diminutive Classic</description>
     </item>
     
     <item>
       <title>Korg Volca Keys Construction Kit</title>
-      <link>https://example.com/pd/korg-volca-construction-kit/</link>
+      <link>https://modularsamples.com/samples/pd/korg-volca-construction-kit/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/korg-volca-construction-kit/</guid>
+      <guid>https://modularsamples.com/samples/pd/korg-volca-construction-kit/</guid>
       <description>Multilayered Volca Keys sounds.</description>
     </item>
     
     <item>
       <title>Korg Z1</title>
-      <link>https://example.com/pd/korg-z1/</link>
+      <link>https://modularsamples.com/samples/pd/korg-z1/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/korg-z1/</guid>
+      <guid>https://modularsamples.com/samples/pd/korg-z1/</guid>
       <description>90s physical modelling synth</description>
     </item>
     
     <item>
       <title>MFB Kraftzwerg</title>
-      <link>https://example.com/pd/mfb-kraftzwerg/</link>
+      <link>https://modularsamples.com/samples/pd/mfb-kraftzwerg/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/mfb-kraftzwerg/</guid>
+      <guid>https://modularsamples.com/samples/pd/mfb-kraftzwerg/</guid>
       <description>Compact mooglike semi-modular</description>
     </item>
     
     <item>
       <title>Misc Synth Samples</title>
-      <link>https://example.com/pd/misc-synth-samples/</link>
+      <link>https://modularsamples.com/samples/pd/misc-synth-samples/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/misc-synth-samples/</guid>
+      <guid>https://modularsamples.com/samples/pd/misc-synth-samples/</guid>
       <description>Assorted</description>
     </item>
     
     <item>
       <title>Modular</title>
-      <link>https://example.com/pd/modular/</link>
+      <link>https://modularsamples.com/samples/pd/modular/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/modular/</guid>
+      <guid>https://modularsamples.com/samples/pd/modular/</guid>
       <description>Various sounds from a modular synth</description>
     </item>
     
     <item>
       <title>Modular construction kit</title>
-      <link>https://example.com/pd/modular-construction-kit/</link>
+      <link>https://modularsamples.com/samples/pd/modular-construction-kit/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/modular-construction-kit/</guid>
+      <guid>https://modularsamples.com/samples/pd/modular-construction-kit/</guid>
       <description>Morphable modular waves</description>
     </item>
     
     <item>
       <title>Moog Animoog Patches</title>
-      <link>https://example.com/pd/moog-animoog-patches/</link>
+      <link>https://modularsamples.com/samples/pd/moog-animoog-patches/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/moog-animoog-patches/</guid>
+      <guid>https://modularsamples.com/samples/pd/moog-animoog-patches/</guid>
       <description>Waves for this IOS synth</description>
     </item>
     
     <item>
       <title>Moog MiniTaur Construction Kit</title>
-      <link>https://example.com/pd/moog-minitaur/</link>
+      <link>https://modularsamples.com/samples/pd/moog-minitaur/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/moog-minitaur/</guid>
+      <guid>https://modularsamples.com/samples/pd/moog-minitaur/</guid>
       <description>Multilayered Moog MiniTaur</description>
     </item>
     
     <item>
       <title>Novation Bass Station II Construction Kit</title>
-      <link>https://example.com/pd/novation-bass-station-ii-construction-kit/</link>
+      <link>https://modularsamples.com/samples/pd/novation-bass-station-ii-construction-kit/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/novation-bass-station-ii-construction-kit/</guid>
+      <guid>https://modularsamples.com/samples/pd/novation-bass-station-ii-construction-kit/</guid>
       <description>Incomplete bass station waveform library</description>
     </item>
     
     <item>
       <title>Novation Ultranova</title>
-      <link>https://example.com/pd/novation-ultranova/</link>
+      <link>https://modularsamples.com/samples/pd/novation-ultranova/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/novation-ultranova/</guid>
+      <guid>https://modularsamples.com/samples/pd/novation-ultranova/</guid>
       <description>Blue thing</description>
     </item>
     
     <item>
       <title>Oberheim Xpander Construction Kit</title>
-      <link>https://example.com/pd/oberheim-xpander-ck/</link>
+      <link>https://modularsamples.com/samples/pd/oberheim-xpander-ck/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/oberheim-xpander-ck/</guid>
+      <guid>https://modularsamples.com/samples/pd/oberheim-xpander-ck/</guid>
       <description>Vast collection of Xpander waveforms and patches</description>
     </item>
     
     <item>
       <title>Roland Alpha Juno</title>
-      <link>https://example.com/pd/roland-alpha-juno/</link>
+      <link>https://modularsamples.com/samples/pd/roland-alpha-juno/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/roland-alpha-juno/</guid>
+      <guid>https://modularsamples.com/samples/pd/roland-alpha-juno/</guid>
       <description>DCO polysynth</description>
     </item>
     
     <item>
       <title>Roland HS-80</title>
-      <link>https://example.com/pd/roland-hs-80/</link>
+      <link>https://modularsamples.com/samples/pd/roland-hs-80/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/roland-hs-80/</guid>
+      <guid>https://modularsamples.com/samples/pd/roland-hs-80/</guid>
       <description>Home Juno</description>
     </item>
     
     <item>
       <title>Roland JD-800</title>
-      <link>https://example.com/pd/roland-jd-800/</link>
+      <link>https://modularsamples.com/samples/pd/roland-jd-800/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/roland-jd-800/</guid>
+      <guid>https://modularsamples.com/samples/pd/roland-jd-800/</guid>
       <description>Big Digital Bastard</description>
     </item>
     
     <item>
       <title>Roland Juno-6</title>
-      <link>https://example.com/pd/roland-juno-6/</link>
+      <link>https://modularsamples.com/samples/pd/roland-juno-6/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/roland-juno-6/</guid>
+      <guid>https://modularsamples.com/samples/pd/roland-juno-6/</guid>
       <description>classic 80s polysynth</description>
     </item>
     
     <item>
       <title>Roland Jupiter 4</title>
-      <link>https://example.com/pd/roland-jupiter-4/</link>
+      <link>https://modularsamples.com/samples/pd/roland-jupiter-4/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/roland-jupiter-4/</guid>
+      <guid>https://modularsamples.com/samples/pd/roland-jupiter-4/</guid>
       <description>Classic 4 voice polysynth</description>
     </item>
     
     <item>
       <title>Roland JX-3P</title>
-      <link>https://example.com/pd/roland-jx-3p/</link>
+      <link>https://modularsamples.com/samples/pd/roland-jx-3p/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/roland-jx-3p/</guid>
+      <guid>https://modularsamples.com/samples/pd/roland-jx-3p/</guid>
       <description>Classic 80s keyboard</description>
     </item>
     
     <item>
       <title>Roland JX-8P</title>
-      <link>https://example.com/pd/roland-jx-8p/</link>
+      <link>https://modularsamples.com/samples/pd/roland-jx-8p/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/roland-jx-8p/</guid>
+      <guid>https://modularsamples.com/samples/pd/roland-jx-8p/</guid>
       <description>80s polysynth</description>
     </item>
     
     <item>
       <title>Roland SH-2</title>
-      <link>https://example.com/pd/roland-sh-2/</link>
+      <link>https://modularsamples.com/samples/pd/roland-sh-2/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/roland-sh-2/</guid>
+      <guid>https://modularsamples.com/samples/pd/roland-sh-2/</guid>
       <description>Analogue Monosynth</description>
     </item>
     
     <item>
       <title>Roland System 100 Construction</title>
-      <link>https://example.com/pd/roland-system-100-construction-kit/</link>
+      <link>https://modularsamples.com/samples/pd/roland-system-100-construction-kit/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/roland-system-100-construction-kit/</guid>
+      <guid>https://modularsamples.com/samples/pd/roland-system-100-construction-kit/</guid>
       <description>70s semi-modular</description>
     </item>
     
     <item>
       <title>Sequential Circuits MAX</title>
-      <link>https://example.com/pd/sequential-max/</link>
+      <link>https://modularsamples.com/samples/pd/sequential-max/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/sequential-max/</guid>
+      <guid>https://modularsamples.com/samples/pd/sequential-max/</guid>
       <description>Morphable waveforms</description>
     </item>
     
     <item>
       <title>Siel Orchestra</title>
-      <link>https://example.com/pd/siel-orchestra/</link>
+      <link>https://modularsamples.com/samples/pd/siel-orchestra/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/siel-orchestra/</guid>
+      <guid>https://modularsamples.com/samples/pd/siel-orchestra/</guid>
       <description>String Synth</description>
     </item>
     
     <item>
       <title>Wavetables for Retro Synth</title>
-      <link>https://example.com/pd/retro-synth-wavetables/</link>
+      <link>https://modularsamples.com/samples/pd/retro-synth-wavetables/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/retro-synth-wavetables/</guid>
+      <guid>https://modularsamples.com/samples/pd/retro-synth-wavetables/</guid>
       <description>A large collection of sounds for Retro Synth</description>
     </item>
     
     <item>
       <title>Yamaha CS30L</title>
-      <link>https://example.com/pd/yamaha-cs30l/</link>
+      <link>https://modularsamples.com/samples/pd/yamaha-cs30l/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/pd/yamaha-cs30l/</guid>
+      <guid>https://modularsamples.com/samples/pd/yamaha-cs30l/</guid>
       <description>Elaborate analogue monosynth</description>
     </item>
     
     <item>
-      <title>Papercss Shortcodes</title>
-      <link>https://example.com/papercss-shortcodes/</link>
-      <pubDate>Tue, 26 Feb 2019 13:50:01 -0600</pubDate>
+      <title>S612 Library Demos</title>
+      <link>https://modularsamples.com/post/s612demos/</link>
+      <pubDate>Wed, 11 Mar 2020 00:08:46 +0100</pubDate>
       
-      <guid>https://example.com/papercss-shortcodes/</guid>
-      <description>border {{&amp;lt; border &amp;gt;}} Regular {{&amp;lt; /border &amp;gt;}} {{&amp;lt; border &amp;quot;dashed&amp;quot; &amp;gt;}} Dashed {{&amp;lt; /border &amp;gt;}} {{&amp;lt; border &amp;quot;dotted&amp;quot; &amp;gt;}} Dotted {{&amp;lt; /border &amp;gt;}} {{&amp;lt; border &amp;quot;dashed thick&amp;quot; &amp;gt;}} Dashed Thick {{&amp;lt; /border &amp;gt;}} {{&amp;lt; border &amp;quot;dotted thick&amp;quot; &amp;gt;}} Dotted Thick {{&amp;lt; /border &amp;gt;}}  Regular   Dashed   Dotted   Dashed Thick   Dotted Thick   color {{&amp;lt; color &amp;quot;primary&amp;quot; &amp;gt;}} Text primary {{&amp;lt; /color &amp;gt;}} {{&amp;lt; color &amp;quot;secondary&amp;quot; &amp;gt;}} Text secondary {{&amp;lt; /color &amp;gt;}} {{&amp;lt; color &amp;quot;success&amp;quot; &amp;gt;}} Text success {{&amp;lt; /color &amp;gt;}} {{&amp;lt; color &amp;quot;warning&amp;quot; &amp;gt;}} Text warning {{&amp;lt; /color &amp;gt;}} {{&amp;lt; color &amp;quot;danger&amp;quot; &amp;gt;}} Text danger {{&amp;lt; /color &amp;gt;}} {{&amp;lt; color &amp;quot;muted&amp;quot; &amp;gt;}} Text muted {{&amp;lt; /color &amp;gt;}} Text primary  Text secondary  Text success  Text warning  Text danger  Text muted  background {{&amp;lt; background &amp;quot;primary&amp;quot; &amp;gt;}} Background primary {{&amp;lt; /background &amp;gt;}} {{&amp;lt; background &amp;quot;secondary&amp;quot; &amp;gt;}} Background secondary {{&amp;lt; /background &amp;gt;}} {{&amp;lt; background &amp;quot;success&amp;quot; &amp;gt;}} Background success {{&amp;lt; /background &amp;gt;}} {{&amp;lt; background &amp;quot;warning&amp;quot; &amp;gt;}} Background warning {{&amp;lt; /background &amp;gt;}} {{&amp;lt; background &amp;quot;danger&amp;quot; &amp;gt;}} Background danger {{&amp;lt; /background &amp;gt;}} Background primary  Background secondary  Background success  Background warning  Background danger  alert {{&amp;lt; alert &amp;quot;primary&amp;quot; &amp;gt;}} Alert-primary {{&amp;lt; /alert &amp;gt;}} {{&amp;lt; alert &amp;quot;secondary&amp;quot; &amp;gt;}} Alert-secondary {{&amp;lt; /alert &amp;gt;}} {{&amp;lt; alert &amp;quot;success&amp;quot; &amp;gt;}} Alert-success {{&amp;lt; /alert &amp;gt;}} {{&amp;lt; alert &amp;quot;warning&amp;quot; &amp;gt;}} Alert-warning {{&amp;lt; /alert &amp;gt;}} {{&amp;lt; alert &amp;quot;danger&amp;quot; &amp;gt;}} Alert-danger {{&amp;lt; /alert &amp;gt;}} Alert-primary  Alert-secondary  Alert-success  Alert-warning  Alert-danger  badge &amp;lt;h3&amp;gt;Example badge {{&amp;lt; badge &amp;gt;}}123{{&amp;lt; /badge &amp;gt;}}&amp;lt;/h3&amp;gt; &amp;lt;h3&amp;gt;Example badge {{&amp;lt; badge &amp;quot;secondary&amp;quot; &amp;gt;}}123{{&amp;lt; /badge &amp;gt;}}&amp;lt;/h3&amp;gt; &amp;lt;h3&amp;gt;Example badge {{&amp;lt; badge &amp;quot;success&amp;quot; &amp;gt;}}123{{&amp;lt; /badge &amp;gt;}}&amp;lt;/h3&amp;gt; &amp;lt;h3&amp;gt;Example badge {{&amp;lt; badge &amp;quot;warning&amp;quot; &amp;gt;}}123{{&amp;lt; /badge &amp;gt;}}&amp;lt;/h3&amp;gt; &amp;lt;h3&amp;gt;Example badge {{&amp;lt; badge &amp;quot;danger&amp;quot; &amp;gt;}}123{{&amp;lt; /badge &amp;gt;}}&amp;lt;/h3&amp;gt; Example badge 123  Example badge 123  Example badge 123  Example badge 123  Example badge 123  card The img param accepts an image page resource name.</description>
-    </item>
-    
-    <item>
-      <title>PaperCSS Typography</title>
-      <link>https://example.com/papercss-typography/</link>
-      <pubDate>Fri, 22 Feb 2019 20:53:58 -0600</pubDate>
-      
-      <guid>https://example.com/papercss-typography/</guid>
-      <description>Headings # Heading 1 ## Heading 2 ### Heading 3 #### Heading 4 ##### Heading 5 ###### Heading 6 Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Text *This text will be italic* _This will also be italic_ **This text will be bold** __This will also be bold__ _You **can** combine them_ This text will be italic
-This will also be italic
-This text will be bold</description>
+      <guid>https://modularsamples.com/post/s612demos/</guid>
+      <description>MF</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://modularsamples.com/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://modularsamples.com/about/</guid>
       <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
 It makes use of a variety of open source projects including:
  https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
     </item>
     
     <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://example.com/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Modular Construction Kit</title>
+      <link>https://modularsamples.com/post/modularck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/goisforlovers/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://example.com/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <guid>https://modularsamples.com/post/modularck/</guid>
+      <description>I recently added a library of simple(ish) waveforms from a Eurorack modular. Each wave has been recorded with different filter settings allowing for crossfade modulation and other fancy tricks. Patch files are available in EXS, NKI and SFZ formats.
+Modular Construction Kit</description>
     </item>
     
   </channel>

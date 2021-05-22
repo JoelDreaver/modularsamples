@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://modularsamples.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "PaperCSS"
+title = "Modular Samples"
 theme = "papercss"
 googleAnalytics = ""
 
@@ -11,8 +11,6 @@ disable = true
 [taxonomies]
 tag = "tags"
 
-[permalinks]
-post = "/:filename/"
 
 [imaging]
 quality = 99
@@ -29,12 +27,12 @@ weight = 1
 
 [[menu.nav]]
 name = "Products"
-url = "/product/"
+url = "/samples/product/"
 weight = 2
 
 [[menu.nav]]
 name = "Public Domain"
-url = "/PD/"
+url = "/samples/PD/"
 weight = 3
 
 

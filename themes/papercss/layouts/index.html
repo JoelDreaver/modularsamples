@@ -3,7 +3,7 @@
 <h1>{{ .Title }}</h1>
 {{ .Content }}
 {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{ range $pages.ByPublishDate.Reverse }}
+{{ range (where .Site.RegularPages.ByDate "Section" "post") | first 4 }}
   <h2 class="post-list {{ if ne .Params.show_summary false }}summary{{ end }}">
     <a href="{{ .RelPermalink }}">
       {{ .Title }}

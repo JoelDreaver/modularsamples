@@ -9,6 +9,14 @@
       {{ .Title }}
     </a>
   </h2>
+  {{ if .Params.img }}
+  {{ with .Resources.Match .Params.img }}
+    {{ range . }}
+      <img width="auto" src="{{ .RelPermalink }}" alt="{{ .Title }}">
+    {{ end }}
+  {{ end }}
+  {{ else }}
+  {{ end }}
   {{ if ne .Params.show_summary false }}
     {{ .Summary }}
   {{ end }}

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Products on PaperCSS</title>
+    <title>Products on Hugo Themes</title>
     <link>https://example.com/product/</link>
-    <description>Recent content in Products on PaperCSS</description>
+    <description>Recent content in Products on Hugo Themes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
     <lastBuildDate>Sat, 22 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/product/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Casio HT-700 Waveform Library</title>
@@ -31,7 +32,7 @@
       <pubDate>Fri, 26 Mar 2021 14:13:21 +0000</pubDate>
       
       <guid>https://example.com/product/excessive-hits/</guid>
-      <description>Loading.</description>
+      <description></description>
     </item>
     
     <item>
@@ -40,7 +41,7 @@
       <pubDate>Fri, 26 Mar 2021 14:13:21 +0000</pubDate>
       
       <guid>https://example.com/product/tragic-automata/</guid>
-      <description>Loading.</description>
+      <description></description>
     </item>
     
     <item>
@@ -49,7 +50,7 @@
       <pubDate>Fri, 26 Mar 2021 14:13:21 +0000</pubDate>
       
       <guid>https://example.com/product/untitled-loop-project/</guid>
-      <description> Loading... </description>
+      <description></description>
     </item>
     
     <item>
@@ -58,7 +59,7 @@
       <pubDate>Fri, 26 Mar 2021 14:13:21 +0000</pubDate>
       
       <guid>https://example.com/product/drive/</guid>
-      <description>Loading.</description>
+      <description></description>
     </item>
     
     <item>
