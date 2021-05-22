@@ -2,7 +2,7 @@ baseURL = "https://example.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "PaperCSS"
-theme = "papercss-hugo-theme"
+theme = "papercss"
 googleAnalytics = ""
 
 [privacy.disqus]
