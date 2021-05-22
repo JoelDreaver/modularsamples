@@ -19,17 +19,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>https://example.com/migrate-from-jekyll-copy/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/migrate-from-jekyll-copy/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
       <link>https://example.com/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
@@ -108,7 +97,9 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/pd/akai-ax80/</guid>
-      <description>80s CEM polysynth</description>
+      <description>The Akai AX-80 is an aggressive sounding CEM based polysynth from the early 80s.
+ Formats: EXS24, Kontakt &amp;amp; SFZ Info: Wikipedia  Download Audio - Download Patches
+Demo  </description>
     </item>
     
     <item>
@@ -508,25 +499,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>Arturia Microfreak Samples</title>
-      <link>https://example.com/microfreak/</link>
-      <pubDate>Wed, 11 Mar 2020 00:08:46 +0100</pubDate>
-      
-      <guid>https://example.com/microfreak/</guid>
-      <description>Here&amp;rsquo;s a repository for some of the curious sounds I&amp;rsquo;m getting out of the Microfreak. Enjoy :)
-MF</description>
-    </item>
-    
-    <item>
-      <title>S612 Library Demos</title>
-      <link>https://example.com/s612demos/</link>
-      <pubDate>Wed, 11 Mar 2020 00:08:46 +0100</pubDate>
-      
-      <guid>https://example.com/s612demos/</guid>
-      <description>MF</description>
-    </item>
-    
-    <item>
       <title>Papercss Shortcodes</title>
       <link>https://example.com/papercss-shortcodes/</link>
       <pubDate>Tue, 26 Feb 2019 13:50:01 -0600</pubDate>
@@ -579,16 +551,6 @@ More complete instructions are available at Install Hugo
 Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
 Follow the following steps:
  Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Modular Construction Kit</title>
-      <link>https://example.com/modularck/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/modularck/</guid>
-      <description>I recently added a library of simple(ish) waveforms from a Eurorack modular. Each wave has been recorded with different filter settings allowing for crossfade modulation and other fancy tricks. Patch files are available in EXS, NKI and SFZ formats.
-Modular Construction Kit</description>
     </item>
     
   </channel>
