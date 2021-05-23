@@ -1,14 +1,13 @@
 ---
 date: 2021-01-20
 img: jx3p.jpg
-categories: 
-- "Public Domain"
+categories:
+- Public Domain
 Formats: EXS24, Kontakt
-summary: Classic 80s keyboard 
-Title: Roland JX-3P  
+summary: Classic 80s keyboard. EXS24, NN-XT Kontakt & SFZ.
+Title: Roland JX-3P
+
 ---
-
-
 - **Formats:** EXS24, NN-XT Kontakt & SFZ
 -    **Info:** [wikipedia.org](https://en.wikipedia.org/wiki/Roland_JX-3P)
 
@@ -18,4 +17,3 @@ Title: Roland JX-3P
 # Demo
 
 <iframe width="600" height="700" src="https://www.modularsamples.com/Demos/demos/jx3p.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
