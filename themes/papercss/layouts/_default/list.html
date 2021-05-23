@@ -12,7 +12,12 @@
   {{ if .Params.img }}
   {{ with .Resources.Match .Params.img }}
     {{ range . }}
+	<p>
       <img width="auto" src="{{ .RelPermalink }}" alt="{{ .Title }}">
+      <a href="{{ .RelPermalink }}">
+        {{ .Title }}
+      </a>
+  </p>
     {{ end }}
   {{ end }}
   {{ else }}

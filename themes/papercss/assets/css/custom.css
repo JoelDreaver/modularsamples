@@ -6,7 +6,7 @@ body {
 /* anchors */
 a,
 a:visited {
-  color: rgb(0, 0, 238);
+  color: #b09bd0;
   background-image: none;
   text-decoration: underline;
 }

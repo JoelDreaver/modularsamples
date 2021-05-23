@@ -23,7 +23,7 @@ This collection pairs an Akai S612 with a Eurorack modular, A Elektron Machinedr
 
 # Demo
 
-<iframe width="600" height="700" src="https://www.modularsamples.com/Demos/demos/s612.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div><iframe width="75%" height="700" src="https://www.modularsamples.com/Demos/demos/s612.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pjTtEDgeXDo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

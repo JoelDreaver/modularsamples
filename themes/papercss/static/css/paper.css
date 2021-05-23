@@ -1,6 +1,5 @@
 @charset "UTF-8";
-@import url(https://fonts.googleapis.com/css?family=Neucha|Patrick+Hand+SC);
-.text-primary {
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');.text-primary {
   color: #41403e
 }
 .background-primary {
@@ -57,6 +56,36 @@ h1 {
   font-size: 2em;
   margin: .67em 0
 }
+
+.footer ul {
+    list-style-type: none;
+     margin-left: 25%;
+	 margin-right: 25%;
+     padding: 0;
+     overflow: hidden;
+     background-color: #333333;
+   }
+   .footer li {
+	   float: left;
+	   color: white;
+list-style-type: none;
+      }
+	 .footer li a {
+	    display: block;
+	    color: white;
+	    text-align: center;
+	    padding: 16px;
+	    text-decoration: none;
+	  }
+
+	 .footer li a:hover {
+	    background-color: #111111;
+	  }
+   
+}
+.footer  {
+
+}
 figcaption,
 figure,
 main {
@@ -75,6 +104,7 @@ pre {
   font-size: 1em
 }
 a {
+	color:#b09bd0;
   background-color: transparent;
   -webkit-text-decoration-skip: objects
 }
@@ -593,7 +623,7 @@ hr::after {
   align-self: flex-end
 }
 .container {
-  margin: 0 auto;
+
   max-width: 960px;
   position: relative;
   width: 100%
@@ -674,7 +704,7 @@ h6 {
   font-weight: 400
 }
 h1 {
-  font-size: 4rem
+  font-size: 3rem
 }
 h2 {
   font-size: 3rem
@@ -809,7 +839,7 @@ table.table-alternating tbody tr:nth-of-type(even) {
   color: #82807c
 }
 .border {
-  border: 2px solid #41403e
+  border: 2px dotted #41403e
 }
 .border,
 .border-1,
@@ -2241,7 +2271,7 @@ fieldset.form-group {
 nav {
   background-color: #fff;
   display: flex;
-  padding: .3rem;
+  padding: 1.3rem;
   position: relative;
   width: 100%;
   z-index: 100
@@ -2310,7 +2340,7 @@ nav a {
   padding-bottom: .1rem
 }
 nav a:hover {
-  border-bottom: 5px solid #c1c0bd
+  border-bottom: 5px solid #470952;
 }
 nav ul.inline li a {
   font-size: 1.3rem

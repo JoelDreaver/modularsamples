@@ -20,21 +20,32 @@ homeMetaContent = "A Hugo theme made with PaperCSS, the less formal CSS framewor
 dateFormat = "Jan 2, 2006"
 navTitleLink = "/"
 
-[[menu.nav]]
-name = "Blog"
-url = "/blog"
-weight = 1
+
 
 [[menu.nav]]
 name = "Products"
 url = "/samples/product/"
-weight = 2
+weight = 1
 
 [[menu.nav]]
 name = "Public Domain"
 url = "/samples/PD/"
+weight = 2
+
+[[menu.nav]]
+name = "Tools & Software"
+url = "/samples/tools/"
 weight = 3
 
+[[menu.nav]]
+name = "About"
+url = "/about"
+weight = 4
+
+[[menu.nav]]
+name = "Contact"
+url = "/contact"
+weight = 4
 
 [markup]
 defaultMarkdownHandler = "goldmark"
