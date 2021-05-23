@@ -1,19 +1,17 @@
 ---
 date: 2021-01-20
 img: rs.jpg
-categories: 
-- "Public Domain"
+categories:
+- Public Domain
 Formats: EXS24, Kontakt
-summary: A large collection of sounds for Retro Synth 
-Title: Wavetables for Retro Synth 
----
+summary: A large collection of sounds for Retro Synth
+Title: Wavetables for Retro Synth
 
-# Wavetables for Retro Synth
+---
 
 ## 337 wavetables and counting..
 
-
-This collection distills the wider Modular Samples library into a bunch of wavetables, patches and Smart Control Panels for Logic's Retro Synth instrument. 
+This collection distills the wider Modular Samples library into a bunch of wavetables, patches and Smart Control Panels for Logic's Retro Synth instrument.
 
 Recently updated with over 20 new wavetables, new patches and better organisation.
 
@@ -22,7 +20,6 @@ Recently updated with over 20 new wavetables, new patches and better organisatio
 # Demo
 
 <iframe width="600" height="700" src="https://www.modularsamples.com/Demos/demos/retrotables.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ## **Installation:**
 
@@ -38,11 +35,8 @@ Please note that by installing this collection you will loose any 3rd party or s
 
 **Track stacks:** Create a new summing stack from the Tracks menu, then, from the library panel select a stack preset.
 
-**Note:** Both channel & stack presets feature a Smart control panel that you may find useful. 
+**Note:** Both channel & stack presets feature a Smart control panel that you may find useful.
 
 ![Sample library disks](https://raw.githubusercontent.com/publicsamples/Retro-Synth-Wavetables/master/rs2.jpg)
 
 https://soundcloud.com/modularsamples-com/sets/wavetablesretrosynth
-
-
-
