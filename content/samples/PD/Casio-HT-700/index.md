@@ -3,7 +3,7 @@ date: 2021-01-20
 img: ht.jpg
 categories:
 - Public Domain
-summary: Editable home keyboard. EXS
+summary: 'Editable home keyboard. '
 Title: Casio HT-700
 
 ---
