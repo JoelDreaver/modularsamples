@@ -1,14 +1,12 @@
 ---
 date: 2021-01-20
-img:  a4.jpg
-categories: 
-- "Public Domain"
+img: a4.jpg
+categories:
+- Public Domain
 summary: Groovy Groovebox
-Title: Elektron Analog Four
+Title: Elektron Analog Four. EXS24, Kontakt, & SFZ. 8gb.
+
 ---
-
-
-
 A four voice analog groovebox with the classic Elektron sequencer. Bleepy bloopy madness.
 
 -  **Patches**: 31
@@ -25,4 +23,3 @@ A four voice analog groovebox with the classic Elektron sequencer. Bleepy bloopy
 
 
 <iframe width="600" height="700" src="https://www.modularsamples.com/Demos/demos/a4.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
