@@ -1,13 +1,13 @@
 ---
 date: 2021-01-20
-img:  sh2.jpg
-categories: 
-- "Public Domain"
-Formats: EXS24, Kontakt
-summary: Analogue Monosynth 
-Title: Roland SH-2 
----
+img: sh2.jpg
+categories:
+- Public Domain
+Formats: ''
+summary: Analogue Monosynth. EXS24, Kontakt 1gb
+Title: Roland SH-2
 
+---
 The Roland SH-2 is a simple analogue monosynth from the late 70's.  This collection is a recording of 22 patches from the SH-2.
 
 -  **Patches**: 22
