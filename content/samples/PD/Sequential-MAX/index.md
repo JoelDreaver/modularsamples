@@ -1,14 +1,13 @@
 ---
 date: 2021-01-20
-img:  max.jpg
-categories: 
-- "Public Domain"
+img: max.jpg
+categories:
+- Public Domain
 Formats: EXS24, Kontakt
-summary: Morphable waveforms 
-Title: Sequential Circuits MAX 
+summary: EXS24, Kontakt & SFZ.
+Title: Sequential Circuits MAX
+
 ---
-
-
 A cheap computer-controlled polysynth. This one seems slightly broken. Sounds nasty in a good way.
 
 -  **Patches**: 10
