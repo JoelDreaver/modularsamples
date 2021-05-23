@@ -1,13 +1,13 @@
 ---
 date: 2021-01-20
-img:  sys100.jpg
-categories: 
-- "Public Domain"
+img: sys100.jpg
+categories:
+- Public Domain
 Formats: EXS24, Kontakt
-summary: 70s semi-modular 
+summary: 70s semi-modular. EXS24, Kontakt, SFZ (partial). 14gb.
 Title: Roland System 100 Construction Kit
----
 
+---
 A construction kit recorded with this 70s semi-modular. Includes a Kontakt instrument & several Logic multis with smart controls.
 
 -   **Patches**: 120
@@ -22,6 +22,3 @@ A construction kit recorded with this 70s semi-modular. Includes a Kontakt instr
 # Demo
 
 <iframe width="600" height="700" src="https://www.modularsamples.com/Demos/demos/sys101.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
