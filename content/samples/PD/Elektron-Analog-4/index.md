@@ -3,7 +3,7 @@ date: 2021-01-20
 img: a4.jpg
 categories:
 - Public Domain
-summary: Groovy Groovebox
+summary: Analogue groove box
 Title: Elektron Analog Four. EXS24, Kontakt, & SFZ. 8gb.
 
 ---
