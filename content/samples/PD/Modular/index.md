@@ -3,10 +3,9 @@ date: 2021-01-20
 img: mod.jpg
 categories: 
 - "Public Domain"
-summary: Various modular synths.
+summary: Various modular synths. EXS24, Kontakt, NN-XT.
 Title: Modular
 ---
-# Modular Sample Library
 
 A large Collection of sounds from a modular synthesiser.
 
