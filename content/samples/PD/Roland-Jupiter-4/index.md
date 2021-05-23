@@ -1,13 +1,13 @@
 ---
 date: 2021-01-20
 img: jp4.jpg
-categories: 
-- "Public Domain"
+categories:
+- Public Domain
 Formats: EXS24, Kontakt
-summary: Classic 4 voice polysynth
-Title: Roland Jupiter 4 
----
+summary: Classic 4 voice polysynth. EXS24, Kontakt & SFZ.
+Title: Roland Jupiter 4
 
+---
 -   **Formats:** EXS24, Kontakt & SFZ
 
 
