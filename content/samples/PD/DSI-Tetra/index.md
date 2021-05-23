@@ -3,8 +3,8 @@ date: 2021-01-20
 img: tetra.jpg
 categories:
 - Public Domain
-summary: Compact 4 Voice poly
-Title: Dave Smith Instruments Tetra. EXS24, Kontakt & SFZ
+summary: Compact 4 Voice poly. EXS24, Kontakt & SFZ
+Title: 'Dave Smith Instruments Tetra. '
 
 ---
 A 4 Voice poly synth with minimal controls but a big sound.
