@@ -1,13 +1,12 @@
 ---
 date: 2021-01-20
-img:  siel2.jpg
-categories: 
-- "Public Domain"
-summary: String Synth
+img: siel2.jpg
+categories:
+- Public Domain
+summary: String Synth. EXS24, Kontakt & SFZ.
 Title: Siel Orchestra
+
 ---
-
-
 Sounds from the Siel Orchestra.
 
 -   **Formats:** EXS24, Kontakt & SFZ
