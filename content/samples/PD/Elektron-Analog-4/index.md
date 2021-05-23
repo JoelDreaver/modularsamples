@@ -3,8 +3,8 @@ date: 2021-01-20
 img: a4.jpg
 categories:
 - Public Domain
-summary: Analogue groove box
-Title: Elektron Analog Four. EXS24, Kontakt, & SFZ. 8gb.
+summary: Analogue groove box. EXS24, Kontakt, & SFZ. 8gb.
+Title: 'Elektron Analog Four. '
 
 ---
 A four voice analog groovebox with the classic Elektron sequencer. Bleepy bloopy madness.
