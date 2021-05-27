@@ -6,6 +6,7 @@ draft: false
 Description: Over 1000 oneshots
 categories: 
 - "premium"
+show_summary: false
 img: excessive-small.jpg
 ---
 

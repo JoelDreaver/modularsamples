@@ -17,7 +17,7 @@ It's a digital VA synth, pretty similar to the older Nova & SuperNova devices.
 
 <div class="buttons"> <a href="https://www.dropbox.com/sh/0jr7mrc38o8mnlg/AAAHBYinVQKs6zEQ9EJVwIrJa?dl=0"> <button>Download Audio</button></a> - <a href="https://github.com/publicsamples/Novation-Ultranova"> <button>Download Patches</button></a></div>
 
-# Demo
 
-<iframe width="600" height="700" src="https://www.modularsamples.com/Demos/demos/nova.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="770px" src="/Demos/demos/nova.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

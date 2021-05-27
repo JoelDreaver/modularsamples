@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 title = "Modular Samples"
 theme = "papercss"
 googleAnalytics = ""
+paginate = 8
 
 [privacy.disqus]
 disable = true
@@ -44,7 +45,7 @@ weight = 4
 
 [[menu.nav]]
 name = "Contact"
-url = "/contact"
+url = "mailto:modularsamples@gmail.com"
 weight = 4
 
 [markup]
@@ -78,7 +79,5 @@ xHTML = false
   style = "monokai"
   tabWidth = 4
 
-  [markup.tableOfContents]
-  endLevel = 6
-  startLevel = 2
+
 

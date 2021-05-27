@@ -20,8 +20,8 @@ A Russian string synth from the mid-80s.  Has string, brass and organ sounds. Th
 
 <div class="buttons"> <a href="https://www.dropbox.com/sh/1m0yqvru5782mtn/AAB1ZsQ1bvMbvk6ztOfv57y-a?dl=0"> <button>Download Audio</button></a> - <a href="https://github.com/publicsamples/Elektronika-EM-25"> <button>Download Patches</button></a></div>
 
-# Demos
 
 
-<iframe width="600" height="700" src="https://www.modularsamples.com/Demos/demos/em25.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="770px" src="/Demos/demos/em25.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

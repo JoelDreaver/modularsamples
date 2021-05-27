@@ -54,11 +54,11 @@ Layered PWM & FM Sounds and over 100 recordings of patches made directly on the 
 <div class="buttons"> <a href="https://www.dropbox.com/sh/2pfl21whj2xvvl3/AAD3ipDE8RpIs8GBy8ICG8A0a?dl=0"> <button>Download Audio</button></a> - <a href="https://github.com/publicsamples/Oberheim-Xpander-Miscellany"> <button>Download Patches</button></a></div>
 
 
-# Demo
 
-<iframe width="600" height="700" src="https://www.modularsamples.com/Demos/demos/xp.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dgiAJXgHjgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="770px" src="/Demos/demos/xp.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vJZg7-DJKcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="770px" src="https://www.youtube.com/embed/dgiAJXgHjgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="770px" src="https://www.youtube.com/embed/vJZg7-DJKcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

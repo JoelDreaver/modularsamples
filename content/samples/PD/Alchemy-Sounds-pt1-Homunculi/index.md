@@ -13,6 +13,6 @@ An attempt to convert parts of the Modular samples library to Logic's Alchemy.
 
 <div class="buttons"> <a href="httpshttps://github.com/publicsamples/Alchemy-Sounds-pt1-Homunculi"> <button>Download Patches</button></a></div>
 
-# Demo
 
-<iframe width="600" height="700" src="https://www.modularsamples.com/Demos/demos/AlchemyDistillation.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="770px" src="/Demos/demos/AlchemyDistillation.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

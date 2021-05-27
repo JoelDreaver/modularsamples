@@ -16,4 +16,4 @@ Title: Yamaha CS30L
 
 # Loading
 
-<iframe width="600" height="700" src="https://www.modularsamples.com/Demos/demos/cs30.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="770" src="/Demos/demos/cs30.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

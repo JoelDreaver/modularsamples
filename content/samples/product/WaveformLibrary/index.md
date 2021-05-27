@@ -5,7 +5,7 @@ draft: false
 categories: 
 - "premium"
 img: wfl.jpeg
-summary: Exhaustive HT-700 construction Kit
+show_summary: false
 ---
 <script src="https://gumroad.com/js/gumroad-embed.js"></script>
 <div class="gumroad-product-embed"><a href="https://gumroad.com/l/HyCRq">Loading...</a></div>

@@ -6,7 +6,15 @@ body {
 /* anchors */
 a,
 a:visited {
-  color: #b09bd0;
+	background-color: #3a3721;
+  color: #fff2fd;
+  background-image: none;
+  text-decoration: underline;
+}
+
+a:hover {
+	background-color: #fff2fd;
+  color: #3a3721;
   background-image: none;
   text-decoration: underline;
 }
@@ -14,8 +22,9 @@ a:visited {
 /* navbar */
 nav a,
 nav a:visited {
-  color: #41403e;
+  color: #3a3721;
   text-decoration: none;
+  background-color: white;
 }
 
 /* blockquote */
@@ -27,9 +36,7 @@ blockquote {
 .post-list {
   font-size: 2em; 
 }
-.summary {
-  margin-bottom: 0.1em; 
-}
+
 
 /* post single */
 .post-title {

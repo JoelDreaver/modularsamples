@@ -46,7 +46,6 @@ body {
 }
 article,
 aside,
-footer,
 header,
 nav,
 section {
@@ -56,40 +55,28 @@ h1 {
   font-size: 2em;
   margin: .67em 0
 }
-
-.footer ul {
-    list-style-type: none;
-     margin-left: 25%;
-	 margin-right: 25%;
-     padding: 0;
-     overflow: hidden;
-     background-color: #333333;
-   }
-   .footer li {
-	   float: left;
-	   color: white;
-list-style-type: none;
-      }
-	 .footer li a {
-	    display: block;
-	    color: white;
-	    text-align: center;
-	    padding: 16px;
-	    text-decoration: none;
-	  }
-
-	 .footer li a:hover {
-	    background-color: #111111;
-	  }
-   
+.footer-box {
+    margin-left: 25%;
+ margin-right: 25%;
+background-color: #bbaf5f;  
+color:#f9f8f9 ; 
+text-align: center;
 }
-.footer  {
+
+.footer-box a{
+
+
+color:#d8cde8 
 
 }
+
 figcaption,
 figure,
 main {
-  display: block
+  display: block;
+  margin-left:5%;
+  margin-right:5%;
+
 }
 figure {
   margin: 1em 40px
@@ -704,10 +691,10 @@ h6 {
   font-weight: 400
 }
 h1 {
-  font-size: 3rem
+  font-size: 2.2rem
 }
 h2 {
-  font-size: 3rem
+  font-size: 1.8rem
 }
 h3 {
   font-size: 2rem
@@ -734,8 +721,9 @@ img {
 
   display: block;
   height: auto;
-  max-width: 100%;
+  max-width: 80%;
   padding-bottom: 1em;
+  
 }
 img.float-left {
   float: left;
@@ -773,9 +761,7 @@ ul {
   list-style: none;
   margin-left: 0
 }
-ul li::before {
-  content: "-"
-}
+
 ul li {
   text-indent: -7px
 }
@@ -786,22 +772,7 @@ ul li [popover-right]::after,
 ul li [popover-top]::after {
   text-indent: 0
 }
-ul li::before {
-  left: -7px;
-  position: relative
-}
-ul ul li::before {
-  content: "+"
-}
-ul ul ul li::before {
-  content: "~"
-}
-ul ul ul ul li::before {
-  content: "⤍"
-}
-ul ul ul ul ul li::before {
-  content: "⁎"
-}
+
 ul.inline li {
   display: inline;
   margin-left: 5px
@@ -839,7 +810,7 @@ table.table-alternating tbody tr:nth-of-type(even) {
   color: #82807c
 }
 .border {
-  border: 2px dotted #41403e
+  border: 2px dotted #ffe8ff
 }
 .border,
 .border-1,
@@ -2323,7 +2294,10 @@ nav ul.inline {
 }
 nav ul.inline li {
   display: inline-block;
-  margin: 0 .5rem
+margin-top: 0px;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    margin-left: 0.5rem;
 }
 @media only screen and (max-width:768px) {
   nav ul.inline li {

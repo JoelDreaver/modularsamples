@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Modular Samples</title>
+    <title>News on Modular Samples</title>
     <link>https://modularsamples.com/</link>
-    <description>Recent content on Modular Samples</description>
+    <description>Recent content in News on Modular Samples</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://modularsamples.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 May 2021 00:08:46 +0100</lastBuildDate><atom:link href="https://modularsamples.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chromatic Loops</title>
+      <link>https://modularsamples.com/post/modularmay27/</link>
+      <pubDate>Thu, 27 May 2021 00:08:46 +0100</pubDate>
+      
+      <guid>https://modularsamples.com/post/modularmay27/</guid>
+      <description>8 velocity sensetive loop patches for Logic and Kontakt</description>
+    </item>
+    
     <item>
       <title>Casio HT-700 Waveform Library</title>
       <link>https://modularsamples.com/samples/product/waveformlibrary/</link>
       <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://modularsamples.com/samples/product/waveformlibrary/</guid>
-      <description>Exhaustive HT-700 construction Kit</description>
+      <description>Loading.</description>
     </item>
     
     <item>
@@ -22,7 +31,7 @@
       <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://modularsamples.com/samples/product/the-collection/</guid>
-      <description>The Casio HT-700 Waveform Library, Excessive Hits, Untitled Loop Project Yamaha PS-2 Library and more</description>
+      <description>Loading.</description>
     </item>
     
     <item>
@@ -67,7 +76,52 @@
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://modularsamples.com/samples/product/yamaha-ps2/</guid>
-      <description>A complete sampling of this early home keyboard.</description>
+      <description>Loading.</description>
+    </item>
+    
+    <item>
+      <title>Fender Chroma Polaris editor for Numerology</title>
+      <link>https://modularsamples.com/samples/tools/fender-chroma-polaris-editor-for-numerology/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://modularsamples.com/samples/tools/fender-chroma-polaris-editor-for-numerology/</guid>
+      <description>A MIDI editor/Sequencer for the Chroma Polaris</description>
+    </item>
+    
+    <item>
+      <title>Jomox Xbase 999 editor for Lemur</title>
+      <link>https://modularsamples.com/samples/tools/jomox-xbase-999-editor-for-lemur/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://modularsamples.com/samples/tools/jomox-xbase-999-editor-for-lemur/</guid>
+      <description>A MIDI editor/Sequencer for the Chroma Polaris</description>
+    </item>
+    
+    <item>
+      <title>Korg Volca Drum Editor for Numerology</title>
+      <link>https://modularsamples.com/samples/tools/korg-volca-drum-editor-for-numerology/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://modularsamples.com/samples/tools/korg-volca-drum-editor-for-numerology/</guid>
+      <description>A MIDI editor/Sequencer for the Chroma Polaris</description>
+    </item>
+    
+    <item>
+      <title>Korg Volca Keys Editor for Numerology</title>
+      <link>https://modularsamples.com/samples/tools/korg-volca-keys-editor-for-numerology/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://modularsamples.com/samples/tools/korg-volca-keys-editor-for-numerology/</guid>
+      <description>A MIDI editor/Sequencer for the Volca Keys</description>
+    </item>
+    
+    <item>
+      <title>Lilac and Peach</title>
+      <link>https://modularsamples.com/samples/tools/lilac-peach/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://modularsamples.com/samples/tools/lilac-peach/</guid>
+      <description>A pair of virtual Instruments</description>
     </item>
     
     <item>
@@ -76,8 +130,43 @@
       <pubDate>Thu, 11 Mar 2021 00:08:46 +0100</pubDate>
       
       <guid>https://modularsamples.com/post/microfreak/</guid>
-      <description>Here&amp;rsquo;s a repository for some of the curious sounds I&amp;rsquo;m getting out of the Microfreak. Enjoy :)
-MF</description>
+      <description>New repository of Microfreak sounds.</description>
+    </item>
+    
+    <item>
+      <title>MORE wavetables for Retrosynth</title>
+      <link>https://modularsamples.com/post/retroupdate/</link>
+      <pubDate>Mon, 22 Feb 2021 00:08:46 +0100</pubDate>
+      
+      <guid>https://modularsamples.com/post/retroupdate/</guid>
+      <description>Wavetables for Retrosynth, now with added wavetables</description>
+    </item>
+    
+    <item>
+      <title>New Modular sounds</title>
+      <link>https://modularsamples.com/post/modularjan21/</link>
+      <pubDate>Sat, 30 Jan 2021 00:08:46 +0100</pubDate>
+      
+      <guid>https://modularsamples.com/post/modularjan21/</guid>
+      <description>9 chord and lead sounds.</description>
+    </item>
+    
+    <item>
+      <title>Lilac jam</title>
+      <link>https://modularsamples.com/post/lilacjam/</link>
+      <pubDate>Fri, 22 Jan 2021 00:08:46 +0100</pubDate>
+      
+      <guid>https://modularsamples.com/post/lilacjam/</guid>
+      <description>Demo of the free VSTi Lilac.</description>
+    </item>
+    
+    <item>
+      <title>SFZ</title>
+      <link>https://modularsamples.com/post/sfz/</link>
+      <pubDate>Fri, 22 Jan 2021 00:08:46 +0100</pubDate>
+      
+      <guid>https://modularsamples.com/post/sfz/</guid>
+      <description>It&amp;rsquo;s been bugging me for ages, a public domain sample library should have better support for open formats, right? Well now most libraries have SFZ patches available. In most cases they&amp;rsquo;re not as refined as their EXS and NKI counterparts but the basic mappings are there.</description>
     </item>
     
     <item>
@@ -86,9 +175,7 @@ MF</description>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://modularsamples.com/samples/pd/akai-ax80/</guid>
-      <description>The Akai AX-80 is an aggressive sounding CEM based polysynth from the early 80s.
- Formats: EXS24, Kontakt &amp;amp; SFZ Info: Wikipedia  Download Audio - Download Patches
-Demo  </description>
+      <description>EXS24, Kontakt &amp;amp; SFZ</description>
     </item>
     
     <item>
@@ -97,7 +184,7 @@ Demo  </description>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://modularsamples.com/samples/pd/akai-s612-modular/</guid>
-      <description>Gritty Vintage Sampler meets Modern Modular.</description>
+      <description>Gritty Vintage Sampler meets Modern Modular. EXS24, Kontakt &amp;amp; SFZ. 2gb.</description>
     </item>
     
     <item>
@@ -115,7 +202,7 @@ Demo  </description>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://modularsamples.com/samples/pd/arturia-microbrute/</guid>
-      <description>Tiny Semi-Modular</description>
+      <description>Tiny Semi-Modular. EXS24, Kontakt, NN-XT &amp;amp; SFZ. 530mb.</description>
     </item>
     
     <item>
@@ -142,7 +229,7 @@ Demo  </description>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://modularsamples.com/samples/pd/casio-ht-700/</guid>
-      <description>Editable home keyboard</description>
+      <description>Editable home keyboard.</description>
     </item>
     
     <item>
@@ -155,21 +242,21 @@ Demo  </description>
     </item>
     
     <item>
-      <title>Dave Smith Instruments Tetra</title>
+      <title>Dave Smith Instruments Tetra. </title>
       <link>https://modularsamples.com/samples/pd/dsi-tetra/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://modularsamples.com/samples/pd/dsi-tetra/</guid>
-      <description>Compact 4 Voice poly</description>
+      <description>Compact 4 Voice poly. EXS24, Kontakt &amp;amp; SFZ</description>
     </item>
     
     <item>
-      <title>Elektron Analog Four</title>
+      <title>Elektron Analog Four. </title>
       <link>https://modularsamples.com/samples/pd/elektron-analog-4/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://modularsamples.com/samples/pd/elektron-analog-4/</guid>
-      <description>Groovy Groovebox</description>
+      <description>Analogue groove box. EXS24, Kontakt, &amp;amp; SFZ. 8gb.</description>
     </item>
     
     <item>
@@ -313,7 +400,7 @@ Demo  </description>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://modularsamples.com/samples/pd/modular/</guid>
-      <description>Various sounds from a modular synth</description>
+      <description>Various modular synths. EXS24, Kontakt, NN-XT.</description>
     </item>
     
     <item>
@@ -341,15 +428,6 @@ Demo  </description>
       
       <guid>https://modularsamples.com/samples/pd/moog-minitaur/</guid>
       <description>Multilayered Moog MiniTaur</description>
-    </item>
-    
-    <item>
-      <title>Novation Bass Station II Construction Kit</title>
-      <link>https://modularsamples.com/samples/pd/novation-bass-station-ii-construction-kit/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://modularsamples.com/samples/pd/novation-bass-station-ii-construction-kit/</guid>
-      <description>Incomplete bass station waveform library</description>
     </item>
     
     <item>
@@ -412,7 +490,7 @@ Demo  </description>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://modularsamples.com/samples/pd/roland-jupiter-4/</guid>
-      <description>Classic 4 voice polysynth</description>
+      <description>Classic 4 voice polysynth. EXS24, Kontakt &amp;amp; SFZ.</description>
     </item>
     
     <item>
@@ -421,7 +499,7 @@ Demo  </description>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://modularsamples.com/samples/pd/roland-jx-3p/</guid>
-      <description>Classic 80s keyboard</description>
+      <description>Classic 80s keyboard. EXS24, NN-XT Kontakt &amp;amp; SFZ.</description>
     </item>
     
     <item>
@@ -430,7 +508,7 @@ Demo  </description>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://modularsamples.com/samples/pd/roland-jx-8p/</guid>
-      <description>80s polysynth</description>
+      <description>80s polysynth. EXS24, Kontakt, NN-XT &amp;amp; SFZ.</description>
     </item>
     
     <item>
@@ -439,16 +517,16 @@ Demo  </description>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://modularsamples.com/samples/pd/roland-sh-2/</guid>
-      <description>Analogue Monosynth</description>
+      <description>Analogue Monosynth. EXS24, Kontakt 1gb</description>
     </item>
     
     <item>
-      <title>Roland System 100 Construction</title>
+      <title>Roland System 100 Construction Kit</title>
       <link>https://modularsamples.com/samples/pd/roland-system-100-construction-kit/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://modularsamples.com/samples/pd/roland-system-100-construction-kit/</guid>
-      <description>70s semi-modular</description>
+      <description>70s semi-modular. EXS24, Kontakt, SFZ (partial). 14gb.</description>
     </item>
     
     <item>
@@ -457,7 +535,7 @@ Demo  </description>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://modularsamples.com/samples/pd/sequential-max/</guid>
-      <description>Morphable waveforms</description>
+      <description>EXS24, Kontakt &amp;amp; SFZ.</description>
     </item>
     
     <item>
@@ -466,7 +544,7 @@ Demo  </description>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://modularsamples.com/samples/pd/siel-orchestra/</guid>
-      <description>String Synth</description>
+      <description>String Synth. EXS24, Kontakt &amp;amp; SFZ.</description>
     </item>
     
     <item>
@@ -484,7 +562,17 @@ Demo  </description>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://modularsamples.com/samples/pd/yamaha-cs30l/</guid>
-      <description>Elaborate analogue monosynth</description>
+      <description>Elaborate analogue monosynth. EXS24, Kontakt.</description>
+    </item>
+    
+    <item>
+      <title>Modular Construction Kit</title>
+      <link>https://modularsamples.com/post/modularck/</link>
+      <pubDate>Fri, 11 Dec 2020 00:08:46 +0100</pubDate>
+      
+      <guid>https://modularsamples.com/post/modularck/</guid>
+      <description>I recently added a library of simple(ish) waveforms from a Eurorack modular. Each wave has been recorded with different filter settings allowing for crossfade modulation and other fancy tricks. Patch files are available in EXS, NKI and SFZ formats.
+Modular Construction Kit</description>
     </item>
     
     <item>
@@ -493,28 +581,28 @@ Demo  </description>
       <pubDate>Wed, 11 Mar 2020 00:08:46 +0100</pubDate>
       
       <guid>https://modularsamples.com/post/s612demos/</guid>
-      <description>MF</description>
+      <description>Demos of the Akai s612 library</description>
     </item>
     
     <item>
-      <title>About</title>
+      <title>About Modular Samples</title>
       <link>https://modularsamples.com/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://modularsamples.com/about/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
-    </item>
-    
-    <item>
-      <title>Modular Construction Kit</title>
-      <link>https://modularsamples.com/post/modularck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://modularsamples.com/post/modularck/</guid>
-      <description>I recently added a library of simple(ish) waveforms from a Eurorack modular. Each wave has been recorded with different filter settings allowing for crossfade modulation and other fancy tricks. Patch files are available in EXS, NKI and SFZ formats.
-Modular Construction Kit</description>
+      <guid>https://modularsamples.com/about/</guid>
+      <description>I started this website in 2010 to host a small collection of samples I had created using a Eurorack modular synthesizer, since then things have gotten a bit out of hand, there are now over 250 Gigabytes of content , covering a diverse range of synths from the Roland Jupiter 4 to the Oberheim Xpander.
+My goal has always been to recreate the original sound as closely as possible. To this end I tend to sample each note of the synthesizer and use a limited amount of additional processing.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://modularsamples.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://modularsamples.com/contact/</guid>
+      <description>I can be contacted one of several ways depending on your needs.
+For specfic issues regarding the public domain samples, please open an issue on the libraries GitHub repository GitHub repository.
+If you prefer, I can also be reached via Facebook and email</description>
     </item>
     
   </channel>

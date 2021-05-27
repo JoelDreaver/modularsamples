@@ -16,7 +16,7 @@ A collection of unsorted, older patches. Sounds from the Concertmate MG1, SCI Pr
 
 <div class="buttons"> <a href="https://www.dropbox.com/sh/q6x3s3jjh4a4vkh/AACXOeK9AbZBtfyJnwdcCl16a?dl=0"> <button>Download Audio</button></a> - <a href="https://github.com/publicsamples/Misc-Synth-Samples"> <button>Download Patches</button></a></div>
 
-# Demo
 
-<iframe width="600" height="700" src="https://www.modularsamples.com/Demos/demos/misc1.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="770px" src="/Demos/demos/misc1.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

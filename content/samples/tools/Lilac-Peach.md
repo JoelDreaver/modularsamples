@@ -6,18 +6,15 @@ date: 2021-03-19
 img:
 ---
 
-# Lilac & Peach
-
-  
 
 A pair of virtual Instruments based on the Roland System 100, Oberheim Xpander and Korg Volca Keys construction kits. Both instruments share the same sample library but have very different layouts and functionality.
 
 Created with [HISE](http://hise.audio). An open source framework for sample based instruments.
 
 <div class="buttons"> 
-	<a href="https://www.dropbox.com/sh/a24tqzsef0p5tia/AAAlyUDHWaHS3uDkEkqbaR-Ha?dl=0" target="_blank"> <button>Download Sound Library</button></a> 
-	
-	 <a href="https://github.com/publicsamples/Lilac-Peach/releases" target="_blank"> <button>Download Plugins</button></a></div>
+	<a href="https://www.dropbox.com/sh/a24tqzsef0p5tia/AAAlyUDHWaHS3uDkEkqbaR-Ha?dl=0" target="_blank"> <button> Sound Library</button></a> 
+	<a href="https://github.com/publicsamples/Lilac-Peach/releases" target="_blank"> <button>Plugins</button></a> 
+ </div>
 
 
 Both instruments are under active development. New samples, features and updates will be forthcoming.
@@ -38,7 +35,7 @@ Both instruments are under active development. New samples, features and updates
 
 # Demo
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/9AO90rA14P4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="75%" height="700" src="https://www.youtube.com/embed/9AO90rA14P4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Installation 
 

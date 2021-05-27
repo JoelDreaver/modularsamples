@@ -1,6 +1,5 @@
 @charset "UTF-8";
-@import url(https://fonts.googleapis.com/css?family=Neucha|Patrick+Hand+SC);
-.text-primary {
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');.text-primary {
   color: #41403e
 }
 .background-primary {
@@ -47,7 +46,6 @@ body {
 }
 article,
 aside,
-footer,
 header,
 nav,
 section {
@@ -57,10 +55,28 @@ h1 {
   font-size: 2em;
   margin: .67em 0
 }
+.footer-box {
+    margin-left: 25%;
+ margin-right: 25%;
+background-color: #bbaf5f;  
+color:#f9f8f9 ; 
+text-align: center;
+}
+
+.footer-box a{
+
+
+color:#d8cde8 
+
+}
+
 figcaption,
 figure,
 main {
-  display: block
+  display: block;
+  margin-left:5%;
+  margin-right:5%;
+
 }
 figure {
   margin: 1em 40px
@@ -75,6 +91,7 @@ pre {
   font-size: 1em
 }
 a {
+	color:#b09bd0;
   background-color: transparent;
   -webkit-text-decoration-skip: objects
 }
@@ -593,7 +610,7 @@ hr::after {
   align-self: flex-end
 }
 .container {
-  margin: 0 auto;
+
   max-width: 960px;
   position: relative;
   width: 100%
@@ -674,10 +691,10 @@ h6 {
   font-weight: 400
 }
 h1 {
-  font-size: 4rem
+  font-size: 2.2rem
 }
 h2 {
-  font-size: 3rem
+  font-size: 1.8rem
 }
 h3 {
   font-size: 2rem
@@ -703,8 +720,10 @@ h6 {
 img {
 
   display: block;
-  height: 50%;
-  max-width: 100%;
+  height: auto;
+  max-width: 80%;
+  padding-bottom: 1em;
+  
 }
 img.float-left {
   float: left;
@@ -742,9 +761,7 @@ ul {
   list-style: none;
   margin-left: 0
 }
-ul li::before {
-  content: "-"
-}
+
 ul li {
   text-indent: -7px
 }
@@ -755,22 +772,7 @@ ul li [popover-right]::after,
 ul li [popover-top]::after {
   text-indent: 0
 }
-ul li::before {
-  left: -7px;
-  position: relative
-}
-ul ul li::before {
-  content: "+"
-}
-ul ul ul li::before {
-  content: "~"
-}
-ul ul ul ul li::before {
-  content: "⤍"
-}
-ul ul ul ul ul li::before {
-  content: "⁎"
-}
+
 ul.inline li {
   display: inline;
   margin-left: 5px
@@ -808,7 +810,7 @@ table.table-alternating tbody tr:nth-of-type(even) {
   color: #82807c
 }
 .border {
-  border: 2px solid #41403e
+  border: 2px dotted #ffe8ff
 }
 .border,
 .border-1,
@@ -2240,7 +2242,7 @@ fieldset.form-group {
 nav {
   background-color: #fff;
   display: flex;
-  padding: .3rem;
+  padding: 1.3rem;
   position: relative;
   width: 100%;
   z-index: 100
@@ -2292,7 +2294,10 @@ nav ul.inline {
 }
 nav ul.inline li {
   display: inline-block;
-  margin: 0 .5rem
+margin-top: 0px;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    margin-left: 0.5rem;
 }
 @media only screen and (max-width:768px) {
   nav ul.inline li {
@@ -2309,7 +2314,7 @@ nav a {
   padding-bottom: .1rem
 }
 nav a:hover {
-  border-bottom: 5px solid #c1c0bd
+  border-bottom: 5px solid #470952;
 }
 nav ul.inline li a {
   font-size: 1.3rem

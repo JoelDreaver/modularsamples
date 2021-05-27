@@ -17,7 +17,7 @@ Sounds from the Korg MS-20 Mini.
 
 <div class="buttons"> <form method="get" action="https://github.com/publicsamples/Korg-MS-20-Mini"> <button>Download Patches</button></a></div>
 
-# Demo
 
-<iframe width="600" height="700" src="https://www.modularsamples.com/Demos/demos/misc2.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="770px" src="/Demos/demos/misc2.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

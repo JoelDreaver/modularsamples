@@ -13,9 +13,9 @@ A collection of loops mangled with Kontakt's Tone Machine.
 
 <div class="buttons"> <a href="https://www.dropbox.com/sh/itp9g5u0wggb698/AADGU887KgCZkKQh4LaIlmQva?dl=0"> <button>Download Audio</button></a> - <a href="https://github.com/publicsamples/Akai-AX80"> <button>Download Patches</button></a></div>
  
-# Demo 
+ 
   
-<iframe width="600" height="700" src="https://www.modularsamples.com/Demos/demos/formerloops.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="770px" src="/Demos/demos/formerloops.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

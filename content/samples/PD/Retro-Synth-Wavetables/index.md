@@ -17,9 +17,9 @@ Recently updated with over 20 new wavetables, new patches and better organisatio
 
 <div class="buttons">  <a href="https://github.com/publicsamples/Retro-Synth-Wavetables"> <button>Download Patches</button></a></div>
 
-# Demo
 
-<iframe width="600" height="700" src="https://www.modularsamples.com/Demos/demos/retrotables.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="770px" src="/Demos/demos/retrotables.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## **Installation:**
 
