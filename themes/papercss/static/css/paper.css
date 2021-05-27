@@ -1156,7 +1156,8 @@ button {
   align-self: center;
   background: 0 0;
   border: 2px solid #41403e;
-  color: #41403e;
+background-color: #3a3721;
+color: white;
   cursor: pointer;
   display: inline-block;
   font-size: 1rem;

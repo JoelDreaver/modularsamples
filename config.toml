@@ -24,7 +24,7 @@ navTitleLink = "/"
 
 
 [[menu.nav]]
-name = "Products"
+name = "Shop"
 url = "/samples/product/"
 weight = 1
 
