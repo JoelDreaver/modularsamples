@@ -4,7 +4,7 @@ defaultContentLanguage = "en"
 title = "Modular Samples"
 theme = "papercss"
 googleAnalytics = ""
-paginate = 8
+paginate = 6
 
 [privacy.disqus]
 disable = true
