@@ -9,6 +9,6 @@ summary: 8 velocity sensetive loop patches for Logic and Kontakt
 
 The latest update to the Modular library adds a bunch of sequenced patches with multiple velocity layers.  
 
-<a href="https://github.com/publicsamples/Modular-Construction-Kit" target="_blank">Github</a>
+<a href="https://github.com/publicsamples/Modular" target="_blank">Github</a>
 
 
