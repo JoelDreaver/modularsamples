@@ -11,7 +11,7 @@ An attempt to convert parts of the Modular samples library to Logic's Alchemy.
 
 
 
-<div class="buttons"> <a href="httpshttps://github.com/publicsamples/Alchemy-Sounds-pt1-Homunculi"> <button>Download Patches</button></a></div>
+<div class="buttons"> <a href="https://github.com/publicsamples/Alchemy-Sounds-pt1-Homunculi"> <button>Download Patches</button></a></div>
 
 
 

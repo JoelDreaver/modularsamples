@@ -1,9 +1,9 @@
-baseURL = "https://modularsamples.com"
+baseURL = "https://www.modularsamples.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Modular Samples"
 theme = "papercss"
-googleAnalytics = ""
+googleAnalytics = "UA-2231938-9"
 paginate = 6
 
 [privacy.disqus]

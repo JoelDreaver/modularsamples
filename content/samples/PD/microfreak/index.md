@@ -15,7 +15,7 @@ Bargain Basement Bad Boy
 
 
 
-<div class="buttons"> <a href="https://www.dropbox.com/sh/g2gbrckgf7zj3kd/AACgPrELmwEFiA5lugQaq-HAa?dl=0"> <button>Download Audio</button></a> - <a href="https://github.com/publicsamples/Arturia-Microfreak/tree/main/Logic%20Sampler"> <button>Download Patches</button></a></div>
+<div class="buttons"> <a href="https://www.dropbox.com/sh/g2gbrckgf7zj3kd/AACgPrELmwEFiA5lugQaq-HAa?dl=0"> <button>Download Audio</button></a> - <a href="https://github.com/publicsamples/Arturia-Microfreak/"> <button>Download Patches</button></a></div>
 
 
 

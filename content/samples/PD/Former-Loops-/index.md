@@ -11,7 +11,7 @@ Title: Former Loops
 
 A collection of loops mangled with Kontakt's Tone Machine.
 
-<div class="buttons"> <a href="https://www.dropbox.com/sh/itp9g5u0wggb698/AADGU887KgCZkKQh4LaIlmQva?dl=0"> <button>Download Audio</button></a> - <a href="https://github.com/publicsamples/Akai-AX80"> <button>Download Patches</button></a></div>
+<div class="buttons"> <a href="https://www.dropbox.com/sh/itp9g5u0wggb698/AADGU887KgCZkKQh4LaIlmQva?dl=0"> <button>Download Audio</button></a> - <a href="https://github.com/publicsamples/Former-Loops-"> <button>Download Patches</button></a></div>
  
  
   

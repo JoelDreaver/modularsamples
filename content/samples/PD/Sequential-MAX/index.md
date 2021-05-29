@@ -13,7 +13,7 @@ A cheap computer-controlled polysynth. This one seems slightly broken. Sounds na
 -  **Patches**: 10
 -   **Formats:** EXS24, Kontakt & SFZ
 -   **Approx Size:** 1GB
--   **Info:** [vintagesynth.com](http://www.vintagesynth.com/sci/max.php
+-   **Info:** [vintagesynth.com](http://www.vintagesynth.com/sci/max.php)
 
 
 
