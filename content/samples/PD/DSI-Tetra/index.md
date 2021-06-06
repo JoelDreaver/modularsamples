@@ -7,7 +7,7 @@ summary: Compact 4 Voice poly. EXS24, Kontakt & SFZ
 Title: Dave Smith Instruments Tetra
 
 ---
-A 4 Voice poly synth with minimal controls but a big sound.
+A 4 Voice poly synth with minimal controls but a big sound. 
 
 -   **Formats:** EXS24, Kontakt & SFZ
 -   **Info:** [sequential.com](https://www.sequential.com/product/tetra/)

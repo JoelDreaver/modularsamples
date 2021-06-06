@@ -3,9 +3,12 @@ date: 2021-01-20
 img:  crave.jpg
 categories: 
 - "Public Domain"
-summary: Moog Mother 32 Clone. EXS24, Kontakt. 960mb.
+summary: EXS24, Kontakt. 960mb.
 Title: Behringer Crave
 ---
+
+If the Behringer Crave has taught me one thing it is this; Moog's semi-modular desktop boxes are much more interesting than first impressions would suggest. As a copy (clone. Knock off, whatever)  the Crave is functionally identical to the Mother 32. This is a good thing because Moog know how to design synthesizers.
+
 
 
    **Formats:** EXS24, Kontakt

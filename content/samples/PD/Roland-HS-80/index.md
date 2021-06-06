@@ -4,13 +4,13 @@ img: hs80.jpg
 categories: 
 - "Public Domain"
 Formats: EXS24, Kontakt
-summary: Home Juno 
+summary: EXS24, Kontakt & SFZ. 2gb.
 Title: Roland HS-80 
 ---
 
+The Roland HS80 is a home keyboard repackaging of their [Alpha Juno polysynth](https://www.modularsamples.com/samples/pd/roland-alpha-juno/). It has a single flexible DCO per voice with waveshaping and sub oscillator and the classic IR3R05 filter. 
 
- 
-An Alpha Juno with home keyboard speakers. 
+This pack contains only a handful of sounds but you may find something that vaguely resemebles a hoover.
 
 -   **Patches**: 8
 -   **Formats:** EXS24, Kontakt & SFZ

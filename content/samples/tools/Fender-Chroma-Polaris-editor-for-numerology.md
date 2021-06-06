@@ -2,7 +2,8 @@
 categories: ["editor"]
 summary: A MIDI editor/Sequencer for the Chroma Polaris
 Title: Fender Chroma Polaris editor for Numerology
-date: 2021-03-19
+date: 2020-03-19
+summary: Edit and sequence the Chroma Polaris 
 img:
 ---
 

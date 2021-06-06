@@ -12,6 +12,8 @@ Edit the Xbase 999 with your phone or tablet.
 
 **Lemur:** https://liine.net/en/products/lemur/
 
+<div class="buttons"> <a href="https://github.com/publicsamples/Fender-Chroma-Polaris-editor-for-numerology" target="_blank"> <button>Download Editor</button></a> </div>
+
 # Demo
 
-<iframe width="75%" height="700" src="https://www.youtube.com/embed/Wz_hP4VLxXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wz_hP4VLxXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

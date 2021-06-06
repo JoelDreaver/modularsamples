@@ -3,12 +3,13 @@ date: 2021-01-20
 img: s612.jpg
 categories:
 - Public Domain
-summary: Gritty Vintage Sampler meets Modern Modular. EXS24, Kontakt & SFZ. 2gb.
+summary:  EXS24, Kontakt & SFZ. 2gb.
 Title: Akai s612 ❤️ Modular
 
 ---
-What happens when you sample a modular synth with an Akai S612 and then record the results into a PC? Something like this..
-This collection pairs an Akai S612 with a Eurorack modular, A Elektron Machinedrum and a Jomox 999 . Hundreds of one shots, drums and patches.
+What happens when you sample a modular synth with an Akai S612 and then record the results into a PC? Something like love?
+
+This collection pairs an Akai S612 with a Eurorack modular, Elektron Machinedrum and a Jomox 999 . Hundreds of one shots, drums and patches for software samplers.
 
 -   **Patches**: 100+
 - **Sounds**: 100+
@@ -25,5 +26,5 @@ This collection pairs an Akai S612 with a Eurorack modular, A Elektron Machinedr
 
 <div><iframe width="100%" height="770px" src="/Demos/demos/s612.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-  
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pjTtEDgeXDo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

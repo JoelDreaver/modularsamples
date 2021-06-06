@@ -3,13 +3,13 @@ date: 2021-01-20
 img: micro.jpg
 categories:
 - Public Domain
-summary: Tiny Semi-Modular. EXS24, Kontakt, NN-XT & SFZ. 530mb.
+summary: EXS24, Kontakt, NN-XT & SFZ. 530mb.
 Title: Arturia Microbrute
-
 ---
-The Microbrute is a single oscillator mono-synth. It features a multi-mode filter, various oscillator modes and a patch bay for modular-style routiing.
 
-* **Patches**: 12
+Get a semi (modular) with this diminutive synth from Arturia. The Microbrute features a multi-mode filter, various oscillator modes and a patch bay for modular-style routing.
+
+* **Patches**: 11
 * **Formats:**  EXS24, Kontakt, NN-XT & SFZ. 
 * **Approx Size:** 530mb
 * **Info:** [arturia.com](https://www.arturia.com/microbrute/overview/)

@@ -4,14 +4,12 @@ categories:
 - "Public Domain"
 img: ax80.jpg
 Title: Akai AX-80
-summary: EXS24, Kontakt & SFZ
+summary: EXS24, Kontakt & SFZ. 2.5gb
 ---
 
+The Akai AX-80 is an aggressive sounding CEM based polysynth from the early 80s. It sounds decent and looks super cool with it's vacuum florescent display and big chunky knob. With 2 oscillators, 4 LFOs and 2 envelopes it is a pretty flexible keyboard.
 
-
-
-
-The Akai AX-80 is an aggressive sounding CEM based polysynth from the early 80s.
+This is a reasonably large collection of over 30 patches with some tasty oscillator sync sounds.
 
 -   **Formats:** EXS24, Kontakt & SFZ
 -   **Info:** [Wikipedia](https://en.wikipedia.org/wiki/Akai_AX80)
