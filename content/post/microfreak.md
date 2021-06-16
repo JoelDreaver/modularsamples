@@ -7,4 +7,4 @@ summary: New repository of Microfreak sounds.
 
 Here's a repository for some of the curious sounds I'm getting out of the Microfreak. Enjoy :)
 
-[MF](https://github.com/publicsamples/Arturia-Microfreak)
+[Microfreak Samples](https://github.com/publicsamples/Arturia-Microfreak)

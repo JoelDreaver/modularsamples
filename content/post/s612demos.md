@@ -3,7 +3,7 @@ title: "S612 Library Demos"
 date: 2020-03-11T00:08:46+01:00
 draft: False
 categories: 
-- "Blog"
+- "News"
 summary: Demos of the Akai s612 library
 
 ---

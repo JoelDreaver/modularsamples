@@ -3,7 +3,7 @@ title: "Chromatic Loops"
 date: 2021-05-27T00:08:46+01:00
 draft: False
 categories: 
-- "Blog"
+- "News"
 summary: 8 velocity sensetive loop patches for Logic and Kontakt
 ---
 

@@ -17,7 +17,7 @@ tag = "tags"
 quality = 99
 
 [params]
-homeMetaContent = "A Hugo theme made with PaperCSS, the less formal CSS framework."
+homeMetaContent = "Public domain Synthesizer samples. EXS24, Logic, Kontakt, SFZ, Falcon."
 dateFormat = "Jan 2, 2006"
 navTitleLink = "/"
 
@@ -33,20 +33,21 @@ name = "Public Domain"
 url = "/samples/PD/"
 weight = 2
 
+
 [[menu.nav]]
 name = "Tools & Software"
 url = "/samples/tools/"
-weight = 3
+weight = 4
 
 [[menu.nav]]
 name = "About"
 url = "/about"
-weight = 4
+weight = 5
 
 [[menu.nav]]
 name = "Contact"
 url = "mailto:modularsamples@gmail.com"
-weight = 4
+weight = 6
 
 [markup]
 defaultMarkdownHandler = "goldmark"

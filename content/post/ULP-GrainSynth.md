@@ -1,9 +1,9 @@
 ---
-title: "ULP granular demo"
+title: "Untitled Loop project Granular demo"
 date: 2021-05-28T00:08:46+01:00
 draft: False
 categories: 
-- "Blog"
+- "News"
 summary: Play a selection of loops for Untitled Loop project through a brower based granular synthesizer.
 ---
 

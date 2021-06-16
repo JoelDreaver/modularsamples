@@ -9,10 +9,10 @@ Title: Elektronika-EM-25
 
 
 
-A Russian string synth from the mid-80s.  Has string, brass and organ sounds. This collection includes a pretty elaborate set of "smart control: panels for Logic and a Kontakt instrument.
+A Russian string synth from the mid-80s.  Has string, brass and organ sounds. This collection includes a pretty elaborate set of smart control panels for Logic and a Kontakt instrument.
 
 -   **Patches**: 8
--   **Formats:** EXS24, Kontakt
+-   **Formats:** EXS24, Kontakt, Falcon
 -   **Approx Size:** 2GB
 -   **Info:** [encyclotronic.com](https://encyclotronic.com/synthesizers/soviet-synthesizers/electronika/em-25-r1275/)
 

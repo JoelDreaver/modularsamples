@@ -1,9 +1,10 @@
 ---
 title: "Lilac jam"
-date: 2021-01-22T00:08:46+01:00
+date: 2021-01-22
 draft: False
+img: alc.jpg
 categories: 
-- "Blog"
+- "News"
 summary: Demo of the free VSTi Lilac.
 
 ---

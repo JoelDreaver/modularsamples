@@ -5,12 +5,16 @@
 {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{ range (where .Site.RegularPages "Section" "post") | first 40 }}
   <h2 class="post-list {{ if ne .Params.show_summary false }}summary{{ end }}">
-    <a href="{{ .RelPermalink }}">
+
       {{ .Title }}
-    </a>
+	  
+   
   </h2>
-  {{ if ne .Params.show_summary false }}
-    {{ .Summary }}
-  {{ end }}
+<p>  {{ .Content }}</p>
+  
+ <hr>
 {{ end }}
+
 {{ end }}
+
+   
