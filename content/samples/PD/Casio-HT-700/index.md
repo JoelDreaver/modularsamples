@@ -9,18 +9,7 @@ Title: Casio HT-700
 ---
 
 
-**A Poem about the Casio HT-700:**
-
-How do I love thee? Let me count the ways. I love thee for thy tasty waveforms and crunchy drums.
-
-My soul can reach, when feeling your alpha wheel. For the ends of envelopes and ideal 2 digit display. I love thee to the level of every day's Most quiet output, by paraphonic VCF and auto-accompaniment.
-
-I love thee freely, as play a chord with a single finger. I love thee purely, as thy don't sync well to MIDI. I love thee with the passion of a nerd. In my old griefs, and with my childhood's faith.
-
-I love thee with a love I seemed to lose. With my lost Juno. I love thee with the external sequencer, FX Pedal, tears, of all my life; and, if God choose,
-
-I shall but love thee better after death
-
+The Casio HT-700 is definately the best thing I've bought for under £20. Sure, the keyboard's broken and patches don't survive the dodgy power cable getting uplugged but it's just packed with charming features like multi-timbrality, crunchy drums and analog fulters, goofy waveforms.. 
 
 
 For more HT-700 love, check out the [Casio HT-700 Waveform Library](https://www.modularsamples.com/samples/product/waveformlibrary/) & [Excessive Hits](https://www.modularsamples.com/samples/product/excessive-hits/)

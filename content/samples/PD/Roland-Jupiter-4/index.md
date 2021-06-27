@@ -15,4 +15,4 @@ Title: Roland Jupiter 4
 
 
 
-<iframe width="100%" height="770px" src="/Demos/demos/jp4.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="700px" src="/Demos/demos/jp4.html" scrolling="no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -22,6 +22,6 @@ A classic 80s polysynth. Like it's big brother the Juno 60, but without patch st
 
 
 
-<iframe width="100%" height="770px" src="/Demos/demos/juno6.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="700px" src="/Demos/demos/juno6.html" scrolling="no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

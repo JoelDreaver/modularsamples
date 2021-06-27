@@ -21,5 +21,5 @@ This is a reasonably large collection of over 30 patches with some tasty oscilla
 
 
 
-<iframe width="100%" height="770px" src="/Demos/demos/ax80.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="700px" src="/Demos/demos/ax80.html" scrolling="no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

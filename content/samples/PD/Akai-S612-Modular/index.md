@@ -24,7 +24,7 @@ This collection pairs an Akai S612 with a Eurorack modular, Elektron Machinedrum
 
 
 
-<div><iframe width="100%" height="770px" src="/Demos/demos/s612.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div><iframe width="100%" height="700px" src="/Demos/demos/s612.html" scrolling="no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pjTtEDgeXDo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pjTtEDgeXDo" scrolling="no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

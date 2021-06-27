@@ -19,5 +19,5 @@ It's a digital VA synth, pretty similar to the older Nova & SuperNova devices.
 
 
 
-<iframe width="100%" height="770px" src="/Demos/demos/nova.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="700px" src="/Demos/demos/nova.html" scrolling="no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

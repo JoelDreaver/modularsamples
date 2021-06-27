@@ -56,9 +56,9 @@ Layered PWM & FM Sounds and over 100 recordings of patches made directly on the 
 
 
 
-<iframe width="100%" height="770px" src="/Demos/demos/xp.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="700px" src="/Demos/demos/xp.html" scrolling="no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="100%" height="770px" src="https://www.youtube.com/embed/dgiAJXgHjgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="700px" src="https://www.youtube.com/embed/dgiAJXgHjgw" title="YouTube video player" scrolling="no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="100%" height="770px" src="https://www.youtube.com/embed/vJZg7-DJKcg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="700px" src="https://www.youtube.com/embed/vJZg7-DJKcg" title="YouTube video player" scrolling="no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

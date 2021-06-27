@@ -23,7 +23,7 @@ CEM based 80's polysynth. A pretty deep instrument with extensive MIDI control.
 
 
 
-<iframe width="100%" height="770px" src="/Demos/demos/chroma.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="700px" src="/Demos/demos/chroma.html" scrolling="no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="100%" height="770px" src="https://www.youtube.com/embed/RpYX-Zx2QxY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="700px" src="https://www.youtube.com/embed/RpYX-Zx2QxY" scrolling="no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

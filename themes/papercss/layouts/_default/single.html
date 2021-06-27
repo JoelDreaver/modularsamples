@@ -1,7 +1,8 @@
 {{ define "main" }}
 
 <h1>{{ .Title }}</h1>
+{{ partial "share-buttons.html" . }}
 {{ .Content }}
-<p> {{ partial "share-buttons.html" . }}</p>
+
  
 {{ end }}

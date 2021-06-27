@@ -22,5 +22,5 @@ The Kraftzwerg is a tiny semi-modular device. It uses the basic Minimoog design 
 
 
 
-<iframe width="100%" height="770px" src="/Demos/demos/kraftzwerg.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="700px" src="/Demos/demos/kraftzwerg.html" scrolling="no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

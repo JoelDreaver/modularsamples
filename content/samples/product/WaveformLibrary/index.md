@@ -1,10 +1,10 @@
 ---
-title: "Casio HT-700 Waveform Library"
+title: "Waveform Library"
 date: 2021-05-22
 draft: false
 categories: 
 - "premium"
-img: wfl.jpeg
+img: wl.jpg
 show_summary: false
 ---
 <script src="https://gumroad.com/js/gumroad-embed.js"></script>

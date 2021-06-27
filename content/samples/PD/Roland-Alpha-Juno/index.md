@@ -23,7 +23,7 @@ A Construction kit made with a Roland Alpha Juno. Includes tons of saw, square a
 
 
 
-<iframe width="100%" height="770px" src="/Demos/demos/aj.html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="700px" src="/Demos/demos/aj.html" scrolling="no" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
  

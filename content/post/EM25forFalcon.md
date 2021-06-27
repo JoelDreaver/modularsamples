@@ -7,6 +7,6 @@ categories:
 summary: Falcon support for EM-25 Library
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4ubwkOd0I64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div><iframe width="100%" height="315" src="https://www.youtube.com/embed/4ubwkOd0I64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 [EM-25 Samples](samples/pd/elektronika-em-25/)
