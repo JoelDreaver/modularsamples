@@ -12,8 +12,6 @@ Title: Casio HT-700
 The Casio HT-700 is definately the best thing I've bought for under £20. Sure, the keyboard's broken and patches don't survive the dodgy power cable getting uplugged but it's just packed with charming features like multi-timbrality, crunchy drums and analog fulters, goofy waveforms.. 
 
 
-For more HT-700 love, check out the [Casio HT-700 Waveform Library](https://www.modularsamples.com/samples/product/waveformlibrary/) & [Excessive Hits](https://www.modularsamples.com/samples/product/excessive-hits/)
-
 -   **Formats:** Logic Sampler, Kontakt
 -    **Info:** [wikipedia.org](https://en.wikipedia.org/wiki/Casio_SD_Synthesizers/)
 

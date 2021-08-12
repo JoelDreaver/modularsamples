@@ -20,7 +20,7 @@ This collection pairs an Akai S612 with a Eurorack modular, Elektron Machinedrum
 
 
 
-<div class="buttons"> <a href="https://www.dropbox.com/sh/vubeucx38hvp80e/AAAr1kwsb20Aa0KhfrXJkvs5a?dl=0"> <button>Download Audio</button></a> - <a href="https://github.com/publicsamples/Akai-S612-Modular"> <button>Download Patches</button></a></div>
+<div class="buttons"> <a href="https://github.com/publicsamples/Akai-S612-Modular/releases/download/1.1/AkaiModular.zip"> <button>Download</button></a> - <a href="https://github.com/publicsamples/Akai-S612-Modular"> <button>Git Repository</button></a></div>
 
 
 

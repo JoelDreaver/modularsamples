@@ -1,13 +1,11 @@
 ---
 title: "Modular Sample library Update"
-date: 2021-08-12T00:08:46+01:00
+date: 2021-08-16T00:08:46+01:00
 draft: False
 categories: 
 - "News"
-summary: big
+summary: Big Modular Update
 ---
-
-
 
 The modular sample library has just received a big update, with over 15gb of new content, UVI Falcon patches, better categorization and numerous fixes and improvements.
 
